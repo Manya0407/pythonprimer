@@ -1,0 +1,2 @@
+# pythonprimer
+python primer study
